@@ -262,6 +262,3 @@ defaults:
       related: true
 
 remote-theme: "mmistakes/minimal-mistakes"
-=======
-remote_theme: "mmistakes/minimal-mistakes"
->>>>>>> e5f41b58d8d1e31630a658e30a120c4a4d23bed6
