@@ -1,5 +1,7 @@
 ---
 layout: single
-title: "Supervised Training Implementation for Fake Hotel Review"
+title: "Fake Hotel Review-3"
 date: 2018-02-17
 ---
+
+# Supervised Training Implementation
