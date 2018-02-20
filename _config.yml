@@ -127,6 +127,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - blog
   # - _posts
 exclude:
   - "*.sublime-project"
