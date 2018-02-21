@@ -35,6 +35,7 @@ date: 2018-02-18
 
 ## *SemiSupervised Learning*
 Several different approaches were used. 
+
 <table>
     <tr>
         <th>Clustering</th>
@@ -45,7 +46,7 @@ Several different approaches were used.
         <td>Slightly better than chance</td>
     </tr>
     <tr>
-        <td>sklearn.LabelSpreading</td>
+        <td>sklearn.LabelPropagation</td>
         <td>Recall: 0.5347, Precision: 0.6276</td>
     </tr>
     <tr>
@@ -66,7 +67,7 @@ Several different approaches were used.
     </tr>
     <tr>
         <td>Contrastive Pessimistic Likelihood Estimation (CPLE)</td>
-        <td>As good as baseline model (XGBoost)
+        <td>As good as baseline model (XGBoost) </td>
     </tr>
     <tr>
         <td>CPLE-SVM (RBF kernel)</td>
