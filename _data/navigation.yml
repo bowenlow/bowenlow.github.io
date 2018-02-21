@@ -10,7 +10,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Fake Hotel Review" 
+  - title: "Fake Hotel Review Demo" 
     url: https://hotel
   - title: "About"
     url: /about/
